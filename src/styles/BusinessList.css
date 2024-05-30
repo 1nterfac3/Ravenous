@@ -1,0 +1,8 @@
+/* styles/BusinessList.css */
+
+.BusinessList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
